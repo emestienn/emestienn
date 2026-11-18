@@ -1,18 +1,16 @@
-<h1 align="center">Hi, I'm Tanzila 👋</h1>
-<p align="center">Full-stack developer building AI-powered products · Frontend instructor at Coddycamp Academy · Tashkent, Uzbekistan</p>
+<!-- Animated wave header -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:8E75B2&height=200&section=header&text=Tanzila%20Nosirova&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=56&descSize=18" width="100%" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+<a href="https://github.com/emestienn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Building+AI+apps+with+Claude+%26+Gemini;Master%27s+student+@+New+Uzbekistan+University;Frontend+Instructor+@+Coddycamp" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=emestienn&label=Profile%20views&color=D97757&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/badge/Open%20to-Remote%20roles-8E75B2?style=flat" alt="Open to remote roles" />
 </p>
 
 ---
@@ -24,6 +22,19 @@
 - 🎓 B.Sc. in Information Technology, Amity University (First Division with Distinction)
 - 👩‍🏫 I teach frontend development to students aged 7–17
 - 💼 Open to Junior AI Engineer / Full-stack roles (remote)
+
+---
+
+### 🛠️ Tech stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,prisma,tailwind,threejs,git,github,vercel&perline=7" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-0A2463?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
 
 ---
 
@@ -53,7 +64,18 @@
 ---
 
 ### 📊 GitHub stats
-<p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=emestienn&show_icons=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emestienn&layout=compact&hide_border=true" />
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=emestienn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emestienn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=emestienn&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emestienn&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<!-- Animated wave footer -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:D97757&height=120&section=footer" width="100%" />
 </p>
