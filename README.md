@@ -75,6 +75,15 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emestienn&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+### 🐍 Contribution snake
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emestienn/emestienn/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emestienn/emestienn/output/github-snake.svg" />
+<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/emestienn/emestienn/output/github-snake.svg" />
+</picture>
+</p>
+
 <!-- Animated wave footer -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:D97757&height=120&section=footer" width="100%" />
