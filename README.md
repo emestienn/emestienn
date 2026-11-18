@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
@@ -18,10 +19,10 @@
 
 ### 🚀 About me
 - 💻 I build full-stack web apps with REST APIs, real-time features and LLM integrations
-- 🤖 Currently working with LLM APIs: an AI patient that talks in Uzbek (Google Gemini) for a dental VR training simulator, and a Telegram assistant with voice transcription (Whisper)
-- 🎓 B.Sc. in Information Technology, Amity University (First Division with Distinction); Master's coursework in Artificial Intelligence and Machine Learning
+- 🤖 I work with LLMs every day: Claude (Anthropic) for building AI assistants and AI-assisted development with Claude Code, plus the Google Gemini API
+- 🎓 Currently doing my Master's degree at New Uzbekistan University (coursework in Artificial Intelligence and Machine Learning)
+- 🎓 B.Sc. in Information Technology, Amity University (First Division with Distinction)
 - 👩‍🏫 I teach frontend development to students aged 7–17
-- 🌱 Interested in AI for healthcare and underserved markets
 - 💼 Open to Junior AI Engineer / Full-stack roles (remote)
 
 ---
